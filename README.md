@@ -1,6 +1,6 @@
 
 
-### Olá, me chamo davi👋
+### Oi! Meu nome é Davi👋
 ### Minhas redes sociais ⬇️
 
 
