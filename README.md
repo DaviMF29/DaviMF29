@@ -16,8 +16,7 @@
 ### Competências que estou aprimorando
 
 <div style = "display: inline_block"><br>
-    <img alt = "" src ="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-
+    
 <div><br/>
 
 ### Competências que tenho interesse em desenvolver
