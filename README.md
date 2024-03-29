@@ -5,7 +5,7 @@
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dfmiguel_/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-miguel-franklim-de-almeida-a7a4a3264/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/davi-miguel-franklim-de-almeida-a7a4a3264/](https://www.linkedin.com/in/davi-miguel-664226217/))
 
 ### Tecnologias que utilizo
 
