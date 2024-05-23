@@ -24,18 +24,10 @@
 ### Competências que estou aprimorando
 
 <div style = "display: inline_block"><br>
-    <img alt = "" src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img alt = "" src = "https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+    <img alt = "" src ="https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white" >
     
 <div><br/>
 
-### Competências que tenho interesse em desenvolver
-
-<div style = "display: inline_block"><br>
-   <img alt = "" src ="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-   <img alt = "" src ="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-   
-<div><br/>
 
 
 
