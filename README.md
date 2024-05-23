@@ -24,7 +24,7 @@
 ### Competências que estou aprimorando
 
 <div style = "display: inline_block"><br>
-    <img alt = "" src ="https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white" >
+    <img alt = "" src ="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" >
     
 <div><br/>
 
